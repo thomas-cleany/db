@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "plip": "plop"
+    },
+    {
+      "id": 2,
+      "plip": "plap"
+    },
+    {
+      "id": 3,
+      "plip": "plup"
+    }
+  ]
+}
